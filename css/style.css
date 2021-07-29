@@ -516,6 +516,15 @@ body {
     width: 530px;
     margin: 0 auto;
   }
+
+  .adv {
+    display: block;
+    margin: 40px auto;
+  }
+
+  .adv img {
+    width: 100%;
+  }
 }
 
 @media (max-width: 576px) {
