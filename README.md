@@ -1,6 +1,5 @@
-# Abito - сайт объявлений
-
-Интенсив "Свой Авито на HTML и CSS" от Glo Academy - https://alterperson.github.io/abito--gloAcademy/
+# Abito
+ Свой Авито на HTML и CSS - https://alterperson.github.io/abito/
 
 ## Технологии в проекте
 
